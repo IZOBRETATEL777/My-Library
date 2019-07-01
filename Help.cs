@@ -13,9 +13,8 @@ namespace My_Library
 
         private void Help_Load(object sender, EventArgs e)
         {
-            string wanted_path = Path.GetDirectoryName(Path.GetDirectoryName(System.IO.Directory.GetCurrentDirectory())) + "\\HelpPage.html";
-            webBrowser1.Url = new System.Uri(wanted_path);
-            label2.Location = new System.Drawing.Point(this.Width / 2 - label2.Width / 2, 9);
+            string curDir = Directory.GetCurrentDirectory();
+            this.webBrowser1.Navigate(new Uri(String.Format("file:///{0}/HelpPage.html", curDir)));
         }
 
         private void Button1_Click(object sender, EventArgs e)
