@@ -1,0 +1,31 @@
+C:\Users\izobr\source\repos\My Library\bin\Debug\My Library.exe.config
+C:\Users\izobr\source\repos\My Library\bin\Debug\My Library.exe
+C:\Users\izobr\source\repos\My Library\bin\Debug\My Library.pdb
+C:\Users\izobr\source\repos\My Library\bin\Debug\asa-TZ\My Library.resources.dll
+C:\Users\izobr\source\repos\My Library\bin\Debug\ru\My Library.resources.dll
+C:\Users\izobr\source\repos\My Library\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\izobr\source\repos\My Library\bin\Debug\NPOI.dll
+C:\Users\izobr\source\repos\My Library\bin\Debug\NPOI.OOXML.dll
+C:\Users\izobr\source\repos\My Library\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\izobr\source\repos\My Library\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\izobr\source\repos\My Library\bin\Debug\WPFCustomMessageBox.dll
+C:\Users\izobr\source\repos\My Library\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\izobr\source\repos\My Library\bin\Debug\WPFCustomMessageBox.xml
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.AboutMenu.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.AddNewBook.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.StartPage.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.Help.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.NPOImethods.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.Parametrs.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.Properties.Resources.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.ShowDataTable.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.StartPage.asa-TZ.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My_Library.StartPage.ru.resources
+C:\Users\izobr\source\repos\My Library\obj\Debug\My Library.csproj.GenerateResource.cache
+C:\Users\izobr\source\repos\My Library\obj\Debug\My Library.csproj.CoreCompileInputs.cache
+C:\Users\izobr\source\repos\My Library\obj\Debug\asa-TZ\My Library.resources.dll
+C:\Users\izobr\source\repos\My Library\obj\Debug\ru\My Library.resources.dll
+C:\Users\izobr\source\repos\My Library\obj\Debug\My Library.csproj.CopyComplete
+C:\Users\izobr\source\repos\My Library\obj\Debug\My Library.exe
+C:\Users\izobr\source\repos\My Library\obj\Debug\My Library.pdb
+C:\Users\izobr\source\repos\My Library\obj\Debug\My Library.csprojAssemblyReference.cache
